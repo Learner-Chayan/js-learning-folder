@@ -1,0 +1,17 @@
+
+ES6 and Hoisting
+................
+The JavaScript engine, by default, moves declarations to the top.
+ This feature is termed as hoisting. This feature applies to variables and functions. 
+ Hoisting allows JavaScript to use a component before it has been declared.
+ However, the concept of hoisting does not apply to scripts that are run in the Strict Mode.
+
+
+Dynamic Typing 
+.................
+JavaScript is an un-typed language.
+ This means that a JavaScript variable can hold a value of any data type. 
+ Unlike many other languages, you don't have to tell JavaScript during variable
+  declaration what type of value the variable will hold. The value type of a 
+ variable can change during the execution of a program and JavaScript takes care of it automatically.
+ This feature is termed as dynamic typing

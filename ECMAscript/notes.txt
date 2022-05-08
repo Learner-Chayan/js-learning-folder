@@ -1,0 +1,57 @@
+
+
+
+ECMASCRIPT (ES) - European Computer Manufacturers Association Script
+
+*ECMAScript, along with Document Object Model, works similarly to the current implementations of JScript and JavaScript.
+JavaScript, on the other hand, can be viewed as a "dialect(উপভাষা)" of ECMAScript .
+
+* Developers can use the shiny new features that come with ES6, but may be concerned with cross-browser compatibility for
+ their web apps. At the time of the writing of this article,
+ Edge and Internet Explorer do not fully support features from the ES6 specification.
+
+ *   In 1997, due to JavaScript’s rapid growth, it became clear that the language would need to be properly maintained and managed.
+    Therefore, Netscape handed the job of creating a language specification to the European Computer Manufacturers Association (ECMA),
+    a body founded with the goal of standardizing computing.The ECMA specifications were labeled ECMA-262 and ECMAScript languages
+    included JavaScript, JScript, and ActionScript.
+
+
+ES6 - Environment
+ES6 - Syntax
+ES6 - Variables
+ES6 - Operators
+ES6 - Decision Making
+ES6 - Loops
+ES6 - Functions
+ES6 - Events
+ES6 - Cookies
+ES6 - Page Redirect
+ES6 - Dialog Boxes
+ES6 - Void Keyword
+ES6 - Page Printing
+ES6 - Objects
+ES6 - Number
+ES6 - Boolean
+ES6 - Strings
+ES6 - Symbol
+ES6 - New String Methods
+ES6 - Arrays
+ES6 - Date
+ES6 - Math
+ES6 - RegExp
+ES6 - HTML DOM
+ES6 - Iterator
+ES6 - Collections
+ES6 - Classes
+ES6 - Maps And Sets
+ES6 - Promises
+ES6 - Modules
+ES6 - Error Handling
+ES6 - Object Extensions
+ES6 - Reflect API
+ES6 - Proxy API
+ES6 - Validations
+ES6 - Animation
+ES6 - Multimedia
+ES6 - Debugging
+ES6 - Image Map
